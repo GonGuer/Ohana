@@ -270,11 +270,11 @@ footer div {
 
       
     .contenedor{
-        grid-template-columns: repeat(1, 200px);
+        grid-template-columns: repeat(1, 230px);
     }
 
     #Galeria{
-        height: 300px;
+        height: 200px;
     }
 
     .Galeria{
